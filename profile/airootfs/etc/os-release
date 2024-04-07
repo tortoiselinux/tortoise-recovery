@@ -1,0 +1,10 @@
+NAME="TortoiseOS"
+ID="endeavouros"
+ID_LIKE="arch"
+BUILD_ID=rolling
+ANSI_COLOR="0;32"
+HOME_URL="https://github.com/tortoiselinux"
+SUPPORT_URL="https://github.com/tortoiselinux/tortoise-development/issues"
+BUG_REPORT_URL="https://github.com/tortoiselinux/tortoise-development/issues"
+PRIVACY_POLICY_URL="https://endeavouros.com/privacy-policy-2"
+LOGO="archlinux"
